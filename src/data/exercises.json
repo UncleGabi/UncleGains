@@ -1,0 +1,3762 @@
+[
+  {
+    "id": "arm-circles",
+    "name": "Arm Circles",
+    "bodyParts": [
+      "shoulders"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "mobility"
+    ],
+    "phase": [
+      "warmup"
+    ],
+    "highImpact": false,
+    "format": "time",
+    "defaultSets": 1,
+    "defaultReps": null,
+    "defaultDuration": 30,
+    "description": "Stand with feet shoulder-width apart and extend both arms out to the sides at shoulder height. Make small circles forward for 15 seconds, then reverse for 15 seconds, gradually increasing the circle size.",
+    "tips": "Keep your core braced and avoid shrugging. This primes the rotator cuff and increases synovial fluid in the shoulder joint before any pressing or pulling work.",
+    "youtubeId": "mwDgFY86zck"
+  },
+  {
+    "id": "leg-swings",
+    "name": "Leg Swings",
+    "bodyParts": [
+      "hamstrings",
+      "quads",
+      "glutes"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "mobility"
+    ],
+    "phase": [
+      "warmup"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 1,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Stand sideways next to a wall and hold it for balance. Swing your outer leg forward and back in a controlled arc, gradually increasing the range of motion. Complete all reps on one side, then switch.",
+    "tips": "Keep the swinging leg relatively straight and your torso upright. This dynamically lengthens the hip flexors and hamstrings — critical before any squat or lunge variation.",
+    "youtubeId": "D17eUtUt0zQ"
+  },
+  {
+    "id": "hip-circles",
+    "name": "Hip Circles",
+    "bodyParts": [
+      "core",
+      "glutes"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "mobility"
+    ],
+    "phase": [
+      "warmup"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 1,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Stand with feet shoulder-width apart and hands on hips. Draw large circles with your hips, rotating clockwise for 10 reps, then counter-clockwise for 10 reps.",
+    "tips": "Move slowly and through the fullest range of motion you can manage. This mobilises the hip joints and lumbar spine before any lower-body loading.",
+    "youtubeId": "JYqLwajOGjI"
+  },
+  {
+    "id": "jumping-jacks",
+    "name": "Jumping Jacks",
+    "bodyParts": [
+      "full-body"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "fat-burning"
+    ],
+    "phase": [
+      "warmup"
+    ],
+    "highImpact": true,
+    "format": "time",
+    "defaultSets": 1,
+    "defaultReps": null,
+    "defaultDuration": 30,
+    "description": "Stand with feet together and arms at sides. Jump your feet out to shoulder width while raising your arms overhead, then jump back to the start. Maintain a steady, relaxed rhythm.",
+    "tips": "Land softly on the balls of your feet and keep a slight bend in the knees throughout. Not suitable for silent mode.",
+    "youtubeId": "aknTmegKiIg"
+  },
+  {
+    "id": "high-knees-march",
+    "name": "High Knees March",
+    "bodyParts": [
+      "quads",
+      "hamstrings",
+      "core"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "mobility"
+    ],
+    "phase": [
+      "warmup"
+    ],
+    "highImpact": false,
+    "format": "time",
+    "defaultSets": 1,
+    "defaultReps": null,
+    "defaultDuration": 30,
+    "description": "March in place, lifting each knee to hip height alternately. Pump your opposite arm in rhythm with each knee lift. Keep your core braced and back straight throughout.",
+    "tips": "Prioritise controlled, deliberate knee lifts over speed. This low-impact version is fully silent-mode compatible and works as a heart-rate primer.",
+    "youtubeId": "zDMUQ63YdbE"
+  },
+  {
+    "id": "butt-kicks",
+    "name": "Butt Kicks (March)",
+    "bodyParts": [
+      "hamstrings",
+      "quads"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "mobility"
+    ],
+    "phase": [
+      "warmup"
+    ],
+    "highImpact": false,
+    "format": "time",
+    "defaultSets": 1,
+    "defaultReps": null,
+    "defaultDuration": 30,
+    "description": "March in place, bending each knee to bring your heel toward your glute alternately. Keep your thighs vertical, core engaged, and upper body relaxed.",
+    "tips": "Focus on the hamstring contraction rather than speed. Keeping this as a march (not a run) keeps it silent-mode safe.",
+    "youtubeId": "oMW59TKZvaI"
+  },
+  {
+    "id": "torso-rotations",
+    "name": "Torso Rotations",
+    "bodyParts": [
+      "core",
+      "back"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "mobility"
+    ],
+    "phase": [
+      "warmup"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 1,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Stand with feet shoulder-width apart and arms extended at shoulder height. Rotate your torso to the left, then to the right in a controlled motion, keeping your hips square and facing forward.",
+    "tips": "Rotate from the thoracic spine — the mid-back — not the lower back. This is especially important before any rowing or twisting exercises.",
+    "youtubeId": "mpgiR4H8cI0"
+  },
+  {
+    "id": "shoulder-rolls",
+    "name": "Shoulder Rolls",
+    "bodyParts": [
+      "shoulders"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "mobility"
+    ],
+    "phase": [
+      "warmup"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 1,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Stand or sit upright. Roll both shoulders in large circles — forward 5 times, then backward 5 times. Exaggerate the movement to open the chest and loosen the upper traps.",
+    "tips": "Combine with deep breathing: inhale as the shoulders rise, exhale as they fall. Great for releasing desk-related tension before upper-body work.",
+    "youtubeId": "EDKOTSffwKI"
+  },
+  {
+    "id": "cat-cow",
+    "name": "Cat-Cow Stretch",
+    "bodyParts": [
+      "back",
+      "core"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "mobility",
+      "flexibility"
+    ],
+    "phase": [
+      "warmup",
+      "cooldown"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 1,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Start on hands and knees with a neutral spine. Inhale and arch your back, lifting your head and tailbone toward the ceiling (Cow). Exhale and round your spine upward, tucking your chin and tailbone (Cat). Flow between the two positions.",
+    "tips": "Always move with your breath — never force either position. This is one of the best exercises for restoring spinal mobility and releasing lower-back tension.",
+    "youtubeId": "xyNwxiuERXc"
+  },
+  {
+    "id": "inchworm",
+    "name": "Inchworm",
+    "bodyParts": [
+      "hamstrings",
+      "shoulders",
+      "core"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "mobility"
+    ],
+    "phase": [
+      "warmup"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 1,
+    "defaultReps": 8,
+    "defaultDuration": null,
+    "description": "Stand with feet hip-width apart. Hinge at the hips and place your hands on the floor. Walk your hands forward until you reach a plank position, hold for a second, then walk your hands back and stand up.",
+    "tips": "Keep your legs as straight as your hamstring flexibility allows. This simultaneously warms up the posterior chain, shoulders, and core — one of the most efficient warmup exercises available.",
+    "youtubeId": "aFkv2m9FTGs"
+  },
+  {
+    "id": "worlds-greatest-stretch",
+    "name": "World's Greatest Stretch",
+    "bodyParts": [
+      "full-body"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "mobility"
+    ],
+    "phase": [
+      "warmup"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 1,
+    "defaultReps": 5,
+    "defaultDuration": null,
+    "description": "From a push-up position, step your right foot to the outside of your right hand. Drop your left knee toward the floor. Rotate your right arm toward the ceiling, following it with your eyes. Return and repeat on the left side.",
+    "tips": "Move through each component slowly and deliberately. This single sequence mobilises the hips, thoracic spine, hamstrings, and shoulders — hence the name.",
+    "youtubeId": "-CiWQ2IvY34"
+  },
+  {
+    "id": "dynamic-hip-flexor-stretch",
+    "name": "Dynamic Hip Flexor Stretch",
+    "bodyParts": [
+      "quads",
+      "glutes"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "mobility"
+    ],
+    "phase": [
+      "warmup"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 1,
+    "defaultReps": 8,
+    "defaultDuration": null,
+    "description": "Step forward into a lunge. From the bottom position, gently pulse your hips downward 2-3 times to stretch the hip flexor, then push back up to standing and switch legs.",
+    "tips": "Keep your front knee directly above your ankle and your torso upright. This movement pattern directly counteracts prolonged sitting.",
+    "youtubeId": "y5SIkOuMlWs"
+  },
+  {
+    "id": "childs-pose",
+    "name": "Child's Pose",
+    "bodyParts": [
+      "back",
+      "core"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "flexibility",
+      "mobility",
+      "general-fitness"
+    ],
+    "phase": [
+      "cooldown"
+    ],
+    "highImpact": false,
+    "format": "time",
+    "defaultSets": 1,
+    "defaultReps": null,
+    "defaultDuration": 45,
+    "description": "Kneel and sit back on your heels. Extend your arms forward on the floor and lower your chest toward the ground. Let your forehead rest on the mat.",
+    "tips": "Breathe deeply and let gravity decompress your spine. Walk your hands slightly to each side to target the lats. Walk hands further left or right to feel a lateral spinal stretch.",
+    "youtubeId": "EniGBCHAEVQ"
+  },
+  {
+    "id": "pigeon-pose",
+    "name": "Pigeon Pose",
+    "bodyParts": [
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [],
+    "difficulty": "intermediate",
+    "goals": [
+      "flexibility",
+      "mobility"
+    ],
+    "phase": [
+      "cooldown"
+    ],
+    "highImpact": false,
+    "format": "time",
+    "defaultSets": 1,
+    "defaultReps": null,
+    "defaultDuration": 45,
+    "description": "From a plank position, bring your right knee toward your right wrist. Extend your left leg straight behind you and lower your hips toward the floor. Hold, then switch sides.",
+    "tips": "If your hip doesn't reach the floor, support it with a folded towel. Never force this position — deep hip tightness requires weeks of consistent work to release.",
+    "youtubeId": "Z3t7KrsvHI4"
+  },
+  {
+    "id": "seated-hamstring-stretch",
+    "name": "Seated Hamstring Stretch",
+    "bodyParts": [
+      "hamstrings"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "flexibility",
+      "mobility"
+    ],
+    "phase": [
+      "cooldown"
+    ],
+    "highImpact": false,
+    "format": "time",
+    "defaultSets": 1,
+    "defaultReps": null,
+    "defaultDuration": 45,
+    "description": "Sit on the floor with both legs extended in front of you. Hinge forward from your hips and reach both hands toward your toes. Hold at your comfortable maximum reach.",
+    "tips": "Hinge from the hips, not the lower back. A slight bend in the knees is perfectly fine — prioritise a flat back over reaching further.",
+    "youtubeId": "n78PS4zq3D8"
+  },
+  {
+    "id": "standing-quad-stretch",
+    "name": "Standing Quad Stretch",
+    "bodyParts": [
+      "quads"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "flexibility",
+      "mobility"
+    ],
+    "phase": [
+      "cooldown"
+    ],
+    "highImpact": false,
+    "format": "time",
+    "defaultSets": 1,
+    "defaultReps": null,
+    "defaultDuration": 30,
+    "description": "Stand on one leg (use a wall for balance if needed). Bend your other knee and hold your ankle behind you, bringing your heel toward your glute. Keep your knees together and stand tall.",
+    "tips": "Squeeze the glute of your standing leg for stability. Push your standing hip slightly forward to deepen the hip flexor component of this stretch.",
+    "youtubeId": "SpuMWv97SvE"
+  },
+  {
+    "id": "cross-body-shoulder-stretch",
+    "name": "Cross-Body Shoulder Stretch",
+    "bodyParts": [
+      "shoulders"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "flexibility",
+      "mobility"
+    ],
+    "phase": [
+      "cooldown"
+    ],
+    "highImpact": false,
+    "format": "time",
+    "defaultSets": 1,
+    "defaultReps": null,
+    "defaultDuration": 30,
+    "description": "Bring one arm straight across your body at shoulder height. Use the other arm to gently press it toward your chest. Keep your shoulder down and neck relaxed. Switch sides.",
+    "tips": "This targets the posterior deltoid and rotator cuff, which tighten up after push and pull exercises. Essential after any shoulder-dominant session.",
+    "youtubeId": "1Sfl3iYM1Jg"
+  },
+  {
+    "id": "overhead-triceps-stretch",
+    "name": "Overhead Triceps Stretch",
+    "bodyParts": [
+      "triceps"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "flexibility",
+      "mobility"
+    ],
+    "phase": [
+      "cooldown"
+    ],
+    "highImpact": false,
+    "format": "time",
+    "defaultSets": 1,
+    "defaultReps": null,
+    "defaultDuration": 30,
+    "description": "Raise one arm overhead and bend the elbow, dropping your hand behind your head. Use the other hand to gently press the elbow further back and down. Hold, then switch sides.",
+    "tips": "Keep your neck neutral and avoid arching your lower back. This stretch is especially valuable after tricep dips, push-ups, and any overhead pressing.",
+    "youtubeId": "cPTrm13hSSo"
+  },
+  {
+    "id": "chest-opener-stretch",
+    "name": "Chest Opener Stretch",
+    "bodyParts": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "flexibility",
+      "mobility"
+    ],
+    "phase": [
+      "cooldown"
+    ],
+    "highImpact": false,
+    "format": "time",
+    "defaultSets": 1,
+    "defaultReps": null,
+    "defaultDuration": 45,
+    "description": "Clasp your hands behind your back and straighten your arms. Gently lift your hands away from your body while opening your chest forward and squeezing your shoulder blades together.",
+    "tips": "Look slightly upward to increase the stretch through the anterior chest. Avoid overarching your lower back — focus on the shoulder blades moving toward each other.",
+    "youtubeId": "OX6mpSQaaQU"
+  },
+  {
+    "id": "cobra-stretch",
+    "name": "Cobra Stretch",
+    "bodyParts": [
+      "core",
+      "back"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "flexibility",
+      "mobility"
+    ],
+    "phase": [
+      "cooldown"
+    ],
+    "highImpact": false,
+    "format": "time",
+    "defaultSets": 1,
+    "defaultReps": null,
+    "defaultDuration": 45,
+    "description": "Lie face down with your hands placed under your shoulders. Press through your palms to lift your chest off the floor, keeping your elbows slightly bent. Keep your hips on the floor and hold.",
+    "tips": "Relax your shoulders away from your ears and breathe steadily. If you feel any lower back compression, reduce the range — a smaller lift is better than forcing it.",
+    "youtubeId": "YYudWYM5Q9g"
+  },
+  {
+    "id": "seated-spinal-twist",
+    "name": "Seated Spinal Twist",
+    "bodyParts": [
+      "back",
+      "core"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "flexibility",
+      "mobility"
+    ],
+    "phase": [
+      "cooldown"
+    ],
+    "highImpact": false,
+    "format": "time",
+    "defaultSets": 1,
+    "defaultReps": null,
+    "defaultDuration": 40,
+    "description": "Sit tall with legs extended. Bend your right knee and cross your right foot over your left leg. Place your right hand behind you and press your left elbow against the outside of the right knee. Rotate and hold. Switch sides.",
+    "tips": "Lengthen through the top of your head before you start rotating. This wrings out tension from the thoracic and lumbar spine — best done at the very end of a workout.",
+    "youtubeId": "r5JuFoNzOU8"
+  },
+  {
+    "id": "figure-four-glute-stretch",
+    "name": "Figure Four Glute Stretch",
+    "bodyParts": [
+      "glutes"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "flexibility",
+      "mobility"
+    ],
+    "phase": [
+      "cooldown"
+    ],
+    "highImpact": false,
+    "format": "time",
+    "defaultSets": 1,
+    "defaultReps": null,
+    "defaultDuration": 45,
+    "description": "Lie on your back with knees bent and feet flat. Cross your right ankle over your left thigh. Reach through the gap and pull your left thigh toward your chest. Hold, then switch sides.",
+    "tips": "Flex your crossed foot to protect the knee joint. This is the safest and most effective piriformis and deep glute stretch — critical after any lower-body session.",
+    "youtubeId": "2VE_NLcNMvQ"
+  },
+  {
+    "id": "standing-calf-stretch",
+    "name": "Standing Calf Stretch",
+    "bodyParts": [
+      "calves"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "flexibility",
+      "mobility"
+    ],
+    "phase": [
+      "cooldown"
+    ],
+    "highImpact": false,
+    "format": "time",
+    "defaultSets": 1,
+    "defaultReps": null,
+    "defaultDuration": 30,
+    "description": "Stand facing a wall with hands on it for support. Step one foot back, press the heel firmly into the floor, and lean slightly forward until you feel the calf stretch. Switch sides.",
+    "tips": "To stretch the soleus (the deeper calf muscle), slightly bend the back knee. Both versions should be done after any running, jumping, or calf raise work.",
+    "youtubeId": "YTYQo4WvJHA"
+  },
+  {
+    "id": "lying-hip-flexor-stretch",
+    "name": "Lying Hip Flexor Stretch",
+    "bodyParts": [
+      "quads",
+      "glutes"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "flexibility",
+      "mobility"
+    ],
+    "phase": [
+      "cooldown"
+    ],
+    "highImpact": false,
+    "format": "time",
+    "defaultSets": 1,
+    "defaultReps": null,
+    "defaultDuration": 45,
+    "description": "Lie on your back. Pull one knee firmly toward your chest while letting the other leg extend fully along the floor. Feel the stretch through the front of the extended hip. Hold, then switch.",
+    "tips": "The more completely you extend the straight leg, the deeper the hip flexor stretch. This is particularly effective after heavy squatting or prolonged sitting.",
+    "youtubeId": "h_TGSUHzh6k"
+  },
+  {
+    "id": "push-up",
+    "name": "Push-Up",
+    "bodyParts": [
+      "chest",
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness",
+      "fat-burning",
+      "circuit"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Place hands slightly wider than shoulder-width and lower your chest to the floor in a straight plank line. Press back up to the start. Keep your core braced throughout.",
+    "tips": "Don't let your hips sag or pike up — your body should move as one rigid unit. If full push-ups are too hard, drop to your knees while keeping the same straight-line torso position.",
+    "youtubeId": "IODxDxX7oi4"
+  },
+  {
+    "id": "wide-push-up",
+    "name": "Wide Push-Up",
+    "bodyParts": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": [],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "general-fitness",
+      "circuit"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Set up like a standard push-up but place your hands 1.5x shoulder-width apart. Lower your chest toward the floor, keeping your elbows flared out at about 45 degrees, then press back up.",
+    "tips": "The wider hand position shifts more emphasis to the outer chest (pec minor and sternal head). Avoid letting your lower back collapse.",
+    "youtubeId": "Z8nUVpSZAhE"
+  },
+  {
+    "id": "diamond-push-up",
+    "name": "Diamond Push-Up",
+    "bodyParts": [
+      "triceps",
+      "chest"
+    ],
+    "equipment": [],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Form a diamond shape with your index fingers and thumbs beneath your chest. Keeping your elbows close to your body, lower your chest to your hands and press back up.",
+    "tips": "This is one of the most effective bodyweight triceps exercises. Keep your elbows tracking straight back rather than flaring out.",
+    "youtubeId": "kGhDnFwMY3E"
+  },
+  {
+    "id": "decline-push-up",
+    "name": "Decline Push-Up",
+    "bodyParts": [
+      "chest",
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": [],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Place your feet on an elevated surface (sofa, step, or sturdy chair) and hands on the floor. Perform a push-up from this declined position, feeling extra load on the upper chest and shoulders.",
+    "tips": "The higher your feet, the more shoulder-dominant the movement becomes. Keep your core rigid to prevent your hips from dropping.",
+    "youtubeId": "s5dEc154cCc"
+  },
+  {
+    "id": "archer-push-up",
+    "name": "Archer Push-Up",
+    "bodyParts": [
+      "chest",
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [],
+    "difficulty": "advanced",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 6,
+    "defaultDuration": null,
+    "description": "Start in a wide push-up position. As you lower down, shift your weight toward one side, keeping that arm bent while the other arm extends straight. Press back to centre and repeat on the other side.",
+    "tips": "This is a progression toward the one-arm push-up. The extended arm provides balance support while the working arm handles most of the load. Control the descent carefully.",
+    "youtubeId": "A0r8ploEnZY"
+  },
+  {
+    "id": "superman",
+    "name": "Superman",
+    "bodyParts": [
+      "back",
+      "glutes"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "endurance",
+      "muscle-building"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Lie face down with arms extended overhead. Simultaneously lift your arms, chest, and legs off the floor by contracting your glutes and lower back. Hold briefly at the top, then lower.",
+    "tips": "Think about reaching long rather than arching high. The goal is spinal extension strength, not maximum height. This is essential for lower back health and posture.",
+    "youtubeId": "z6PJMT2y8GQ"
+  },
+  {
+    "id": "bird-dog",
+    "name": "Bird Dog",
+    "bodyParts": [
+      "back",
+      "core",
+      "glutes"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "endurance",
+      "mobility"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Start on hands and knees with a neutral spine. Extend your right arm and left leg simultaneously until both are parallel to the floor. Hold for a second, then return and repeat on the opposite side.",
+    "tips": "Move slowly and avoid rotating your hips. The key is maintaining a stable, neutral spine throughout — this exercise trains anti-rotation and spinal stabilisation, not range of motion.",
+    "youtubeId": "wcpHuv5DMWg"
+  },
+  {
+    "id": "reverse-snow-angels",
+    "name": "Reverse Snow Angels",
+    "bodyParts": [
+      "back",
+      "shoulders"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "endurance",
+      "mobility"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Lie face down with arms at your sides and palms facing down. Lift your arms slightly off the floor and sweep them overhead in a wide arc (like a snow angel in reverse), keeping them raised throughout.",
+    "tips": "Keep your thumbs pointing upward throughout the movement to externally rotate the shoulders. This strengthens the mid and lower trapezius — crucial for posture correction.",
+    "youtubeId": "s0u7kRVim_4"
+  },
+  {
+    "id": "back-extension",
+    "name": "Back Extension",
+    "bodyParts": [
+      "back",
+      "glutes"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "muscle-building"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Lie face down with hands lightly touching your temples. Using your lower back and glutes, lift your chest off the floor until your spine is extended. Lower with control.",
+    "tips": "Focus on contracting the glutes to protect the lower back. Avoid pulling on your neck — your hands are there for light support only.",
+    "youtubeId": "4n-ealwFxgo"
+  },
+  {
+    "id": "good-morning-bodyweight",
+    "name": "Bodyweight Good Morning",
+    "bodyParts": [
+      "hamstrings",
+      "back",
+      "glutes"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "muscle-building",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Stand with feet shoulder-width apart and hands behind your head. Hinge forward at the hips, keeping your back flat and knees slightly bent, until your torso is roughly parallel to the floor. Drive your hips forward to return.",
+    "tips": "The movement is a hip hinge, not a squat. Think about pushing your hips backward, not bending your knees. This teaches the pattern needed for all posterior chain movements.",
+    "youtubeId": "61zbhuRiwQg"
+  },
+  {
+    "id": "pike-push-up",
+    "name": "Pike Push-Up",
+    "bodyParts": [
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": [],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Start in a downward dog position with hips raised high. Bend your elbows to lower the top of your head toward the floor between your hands, then press back up.",
+    "tips": "The steeper the hip angle (more vertical), the more shoulder-dominant the movement. This is the key progression toward handstand push-ups.",
+    "youtubeId": "66x0qQiJ-MA"
+  },
+  {
+    "id": "plank-to-downward-dog",
+    "name": "Plank to Downward Dog",
+    "bodyParts": [
+      "shoulders",
+      "core",
+      "hamstrings"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "mobility",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Start in a plank position. Push your hips up and back into a downward dog, pressing through your palms and lengthening your spine. Pause, then return to plank.",
+    "tips": "Push the floor away with your hands to activate the serratus anterior (the 'boxer's muscle'). This builds shoulder stability and is excellent active recovery between harder exercises.",
+    "youtubeId": "yTuUkU9GT_g"
+  },
+  {
+    "id": "handstand-push-up",
+    "name": "Handstand Push-Up",
+    "bodyParts": [
+      "shoulders",
+      "triceps",
+      "core"
+    ],
+    "equipment": [],
+    "difficulty": "advanced",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 5,
+    "defaultDuration": null,
+    "description": "Kick up into a handstand against a wall. Bend your elbows to lower your head toward the floor, then press back up to full lockout. Keep your core tight and body in a straight line.",
+    "tips": "Master the pike push-up and wall handstand hold before attempting this. Use the wall for balance only — work toward reducing your dependence on it over time.",
+    "youtubeId": "pYx7CRs7kAM"
+  },
+  {
+    "id": "plank",
+    "name": "Plank",
+    "bodyParts": [
+      "core"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "endurance",
+      "muscle-building"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "time",
+    "defaultSets": 3,
+    "defaultReps": null,
+    "defaultDuration": 30,
+    "description": "Support your weight on your forearms and toes with your body forming a straight line from head to heels. Hold the position, breathing steadily.",
+    "tips": "Squeeze your glutes and brace your abs as if bracing for a punch. Never let your hips sag — if you can't maintain form, drop to your knees rather than compromising position.",
+    "youtubeId": "mwlp75MS6Rg"
+  },
+  {
+    "id": "side-plank",
+    "name": "Side Plank",
+    "bodyParts": [
+      "core"
+    ],
+    "equipment": [],
+    "difficulty": "intermediate",
+    "goals": [
+      "general-fitness",
+      "endurance",
+      "muscle-building"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "time",
+    "defaultSets": 3,
+    "defaultReps": null,
+    "defaultDuration": 30,
+    "description": "Lie on your side and prop your body up on one forearm, stacking your feet. Lift your hips to form a straight line from head to feet. Hold, then switch sides.",
+    "tips": "The key weakness to watch for is hip sag — your hips should stay elevated throughout. This trains obliques and lateral core stability that standard planks can't reach.",
+    "youtubeId": "iNbH7_edNI8"
+  },
+  {
+    "id": "crunches",
+    "name": "Crunches",
+    "bodyParts": [
+      "core"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "fat-burning",
+      "muscle-building"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 20,
+    "defaultDuration": null,
+    "description": "Lie on your back with knees bent and feet flat. Place hands lightly behind your head. Curl your shoulders off the floor by contracting your abs, then lower with control.",
+    "tips": "The movement is small — you're curling, not sitting up. Don't pull on your neck. Focus on exhaling sharply as you crunch up to maximise the abdominal contraction.",
+    "youtubeId": "GWIEON0VSaY"
+  },
+  {
+    "id": "bicycle-crunches",
+    "name": "Bicycle Crunches",
+    "bodyParts": [
+      "core"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "fat-burning",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 20,
+    "defaultDuration": null,
+    "description": "Lie on your back with hands behind your head and legs raised. Bring your right elbow toward your left knee while extending your right leg, then switch. Alternate in a cycling motion.",
+    "tips": "Rotate from the torso, not just the elbow. The key is a genuine trunk rotation to engage the obliques, not just touching elbow to knee with minimal rotation.",
+    "youtubeId": "1we3bh9uhqY"
+  },
+  {
+    "id": "leg-raises",
+    "name": "Leg Raises",
+    "bodyParts": [
+      "core"
+    ],
+    "equipment": [],
+    "difficulty": "intermediate",
+    "goals": [
+      "general-fitness",
+      "muscle-building"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Lie flat on your back with legs straight and hands under your lower back for support. Keeping your legs together, raise them to 90 degrees, then lower them slowly without touching the floor.",
+    "tips": "The slower the lowering phase, the harder this is. If your lower back arches off the floor as you lower, stop the rep at that point — you've hit your range for now.",
+    "youtubeId": "0tzBVqiDwSs"
+  },
+  {
+    "id": "mountain-climbers",
+    "name": "Mountain Climbers",
+    "bodyParts": [
+      "core",
+      "quads",
+      "shoulders"
+    ],
+    "equipment": [],
+    "difficulty": "intermediate",
+    "goals": [
+      "hiit",
+      "fat-burning",
+      "endurance",
+      "circuit"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "time",
+    "defaultSets": 3,
+    "defaultReps": null,
+    "defaultDuration": 30,
+    "description": "Start in a push-up/plank position. Drive your right knee toward your chest, then quickly switch legs, maintaining a stable plank with your upper body throughout.",
+    "tips": "Keep your hips level — don't let them bob up and down with each rep. Despite the speed, your shoulders should stay steady over your wrists. This is fully silent-mode compatible.",
+    "youtubeId": "ixxk9Qfn61o"
+  },
+  {
+    "id": "russian-twists",
+    "name": "Russian Twists",
+    "bodyParts": [
+      "core"
+    ],
+    "equipment": [],
+    "difficulty": "intermediate",
+    "goals": [
+      "general-fitness",
+      "fat-burning",
+      "muscle-building"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 20,
+    "defaultDuration": null,
+    "description": "Sit on the floor with knees bent and feet either flat or raised. Lean back slightly to create a V-shape with your torso and thighs. Rotate your torso left and right, touching the floor on each side.",
+    "tips": "The rotation should come from your waist, not just your arms. Holding a water bottle or any weighted object turns this into a loaded oblique exercise.",
+    "youtubeId": "IJDOoVyVjhc"
+  },
+  {
+    "id": "dead-bug",
+    "name": "Dead Bug",
+    "bodyParts": [
+      "core"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Lie on your back with arms pointed straight up and knees at 90 degrees above your hips. Slowly lower your right arm and left leg toward the floor simultaneously, then return. Switch sides.",
+    "tips": "Press your lower back firmly into the floor throughout. This is harder than it looks — the challenge is maintaining spinal stability while your limbs move independently.",
+    "youtubeId": "bxn9FBrt4-A"
+  },
+  {
+    "id": "hollow-body-hold",
+    "name": "Hollow Body Hold",
+    "bodyParts": [
+      "core"
+    ],
+    "equipment": [],
+    "difficulty": "intermediate",
+    "goals": [
+      "general-fitness",
+      "endurance",
+      "muscle-building"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "time",
+    "defaultSets": 3,
+    "defaultReps": null,
+    "defaultDuration": 30,
+    "description": "Lie on your back and press your lower back into the floor. Raise your shoulders and legs off the ground, arms extended overhead. Your body forms a shallow 'hollow' curve. Hold.",
+    "tips": "If your lower back lifts off the floor, bring your knees in or raise your legs higher until you can maintain the posterior pelvic tilt. This is a fundamental gymnastics strength position.",
+    "youtubeId": "HAfUt2Cco74"
+  },
+  {
+    "id": "v-up",
+    "name": "V-Up",
+    "bodyParts": [
+      "core"
+    ],
+    "equipment": [],
+    "difficulty": "advanced",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Lie flat with arms extended overhead. Simultaneously raise your straight legs and your torso, reaching your hands toward your feet to form a V shape at the top. Lower with control.",
+    "tips": "The entire movement is driven by your abs — don't use momentum. If needed, perform a tuck version (bringing knees to chest rather than straight legs) to build toward the full V-up.",
+    "youtubeId": "DfVArP2V6kg"
+  },
+  {
+    "id": "toe-touches",
+    "name": "Toe Touches",
+    "bodyParts": [
+      "core"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "fat-burning"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 15,
+    "defaultDuration": null,
+    "description": "Lie on your back and raise your legs vertically to 90 degrees. Crunch up and reach your hands toward your feet, lifting your shoulder blades off the floor. Lower with control.",
+    "tips": "Keep your legs as straight as possible. The vertical leg position loads the lower abs more than flat-leg crunches. Exhale sharply at the top of each rep.",
+    "youtubeId": "rHEzFsLf4-o"
+  },
+  {
+    "id": "glute-bridge",
+    "name": "Glute Bridge",
+    "bodyParts": [
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 15,
+    "defaultDuration": null,
+    "description": "Lie on your back with knees bent and feet flat. Drive through your heels to raise your hips until your body forms a straight line from knees to shoulders. Squeeze your glutes at the top, then lower.",
+    "tips": "Push your knees slightly outward to activate the glute medius. At the top position, squeeze your glutes hard — don't just hinge up passively.",
+    "youtubeId": "Q_Bpj91Yiis"
+  },
+  {
+    "id": "single-leg-glute-bridge",
+    "name": "Single-Leg Glute Bridge",
+    "bodyParts": [
+      "glutes",
+      "hamstrings",
+      "core"
+    ],
+    "equipment": [],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Set up like a glute bridge but extend one leg straight. Drive through the grounded heel to lift your hips, keeping the raised leg in line with your torso. Complete all reps on one side, then switch.",
+    "tips": "Keep your hips level — don't let the non-working side drop. This unilateral movement exposes and corrects left-right glute strength imbalances.",
+    "youtubeId": "VUl8R0kn6v4"
+  },
+  {
+    "id": "donkey-kicks",
+    "name": "Donkey Kicks",
+    "bodyParts": [
+      "glutes"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 15,
+    "defaultDuration": null,
+    "description": "Start on hands and knees. Keeping your knee bent at 90 degrees, kick your right leg straight back and up toward the ceiling by contracting your glute. Lower slowly. Complete all reps on one side.",
+    "tips": "Avoid arching your lower back — the movement should come from your hip, not your spine. Squeeze your glute hard at the top of each rep for maximum activation.",
+    "youtubeId": "KgghFOMKnkE"
+  },
+  {
+    "id": "fire-hydrants",
+    "name": "Fire Hydrants",
+    "bodyParts": [
+      "glutes"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness",
+      "mobility"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 15,
+    "defaultDuration": null,
+    "description": "Start on hands and knees. Keeping your knee bent at 90 degrees, lift your right knee out to the side as high as possible, like a dog at a fire hydrant. Lower slowly. Complete all reps on one side.",
+    "tips": "Keep your hips square and avoid rotating your torso. This targets the glute medius — essential for hip stability and knee health during walking and running.",
+    "youtubeId": "KOMtxRvGACA"
+  },
+  {
+    "id": "hip-thrust-bodyweight",
+    "name": "Bodyweight Hip Thrust",
+    "bodyParts": [
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 15,
+    "defaultDuration": null,
+    "description": "Sit with your upper back against a sofa or sturdy chair. Feet flat, knees bent. Drive through your heels to thrust your hips toward the ceiling until your body forms a straight line from knees to shoulders. Squeeze at the top.",
+    "tips": "Your chin should stay tucked — don't let your head drop back. The elevated starting position increases the range of motion vs a flat glute bridge.",
+    "youtubeId": "j59jWsUbl8A"
+  },
+  {
+    "id": "frog-pumps",
+    "name": "Frog Pumps",
+    "bodyParts": [
+      "glutes"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 20,
+    "defaultDuration": null,
+    "description": "Lie on your back with the soles of your feet together and knees out to the sides (frog position). Drive your hips upward, squeezing your glutes hard at the top, then lower.",
+    "tips": "The externally rotated leg position puts the glutes in a shortened position, making the contraction extremely intense. Great as a finisher after heavier glute work.",
+    "youtubeId": "HyCiZVMMDW4"
+  },
+  {
+    "id": "bodyweight-squat",
+    "name": "Bodyweight Squat",
+    "bodyParts": [
+      "quads",
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "fat-burning",
+      "endurance",
+      "circuit"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 15,
+    "defaultDuration": null,
+    "description": "Stand with feet shoulder-width apart and toes turned out slightly. Sit back and down until your thighs are parallel to the floor (or as deep as mobility allows), keeping your chest up and knees tracking over your toes. Drive through your heels to stand.",
+    "tips": "Depth is secondary to keeping your heels on the floor and your chest upright. Improve mobility over time rather than forcing depth immediately.",
+    "youtubeId": "P-yaD24bUE8"
+  },
+  {
+    "id": "jump-squat",
+    "name": "Jump Squat",
+    "bodyParts": [
+      "quads",
+      "glutes",
+      "calves"
+    ],
+    "equipment": [],
+    "difficulty": "intermediate",
+    "goals": [
+      "hiit",
+      "fat-burning",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": true,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Descend into a squat and explode upward, leaving the floor completely. Land softly by bending your knees and immediately transitioning into the next squat.",
+    "tips": "Land toe-heel to absorb impact through the ankles and knees. Not suitable for silent mode. Focus on explosive power through the hips, not just the legs.",
+    "youtubeId": "tZSYZdtbONc"
+  },
+  {
+    "id": "bulgarian-split-squat",
+    "name": "Bulgarian Split Squat",
+    "bodyParts": [
+      "quads",
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Stand in front of a sofa or chair. Step one foot back and rest the top of that foot on the elevated surface. Lower your back knee toward the floor, keeping your front knee above your ankle. Drive through your front heel to return.",
+    "tips": "Position your front foot far enough forward that your shin stays roughly vertical at the bottom. This is one of the best unilateral leg exercises — expect significant DOMS after your first session.",
+    "youtubeId": "DeCnHqrN22U"
+  },
+  {
+    "id": "pistol-squat",
+    "name": "Pistol Squat",
+    "bodyParts": [
+      "quads",
+      "glutes",
+      "core"
+    ],
+    "equipment": [],
+    "difficulty": "advanced",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 5,
+    "defaultDuration": null,
+    "description": "Stand on one leg with the other extended in front of you. Slowly lower yourself on the single leg until your glute nearly touches your heel, keeping the other leg extended. Drive back up to standing.",
+    "tips": "Use a wall or hold onto a doorframe for balance assistance as you develop the strength. The bottom position requires excellent ankle and hip mobility in addition to leg strength.",
+    "youtubeId": "vq5-vdgJc0I"
+  },
+  {
+    "id": "wall-sit",
+    "name": "Wall Sit",
+    "bodyParts": [
+      "quads",
+      "glutes"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "endurance",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "time",
+    "defaultSets": 3,
+    "defaultReps": null,
+    "defaultDuration": 45,
+    "description": "Stand with your back against a wall. Slide down until your thighs are parallel to the floor and your knees are at 90 degrees. Hold the position with your back flat against the wall.",
+    "tips": "Keep your feet flat on the floor and don't let your knees drift inward. This is a powerful quad-endurance exercise — the longer you hold, the deeper the burn.",
+    "youtubeId": "sT0jUNnb9dk"
+  },
+  {
+    "id": "forward-lunge",
+    "name": "Forward Lunge",
+    "bodyParts": [
+      "quads",
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "fat-burning",
+      "circuit"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Stand with feet hip-width apart. Step one foot forward, lowering your back knee toward the floor. Push off the front foot to return to standing. Alternate legs each rep.",
+    "tips": "Keep your front knee tracking over your second toe and your torso upright. The longer your step, the more glute-dominant the movement; the shorter, the more quad-dominant.",
+    "youtubeId": "B7VQJiVv3xw"
+  },
+  {
+    "id": "reverse-lunge",
+    "name": "Reverse Lunge",
+    "bodyParts": [
+      "quads",
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "fat-burning",
+      "circuit"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Stand with feet together. Step one foot backward, lowering your back knee toward the floor. Drive through the front heel to return to standing. Alternate legs.",
+    "tips": "Reverse lunges are gentler on the knees than forward lunges because the front knee doesn't travel as far forward over the toes. A safer option for those with knee sensitivity.",
+    "youtubeId": "GcYirgCLhnI"
+  },
+  {
+    "id": "lateral-lunge",
+    "name": "Lateral Lunge",
+    "bodyParts": [
+      "quads",
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "mobility"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Stand with feet together. Step one foot out to the side, pushing your hips back and bending the stepping knee while keeping the other leg straight. Push off the bent leg to return. Alternate sides.",
+    "tips": "Keep your stepping foot pointing straight ahead and your torso upright. This is the only common lower-body exercise that trains the frontal plane — great for hip mobility and adductor strength.",
+    "youtubeId": "gwWv7aPcD88"
+  },
+  {
+    "id": "jump-lunge",
+    "name": "Jump Lunge",
+    "bodyParts": [
+      "quads",
+      "glutes",
+      "hamstrings",
+      "calves"
+    ],
+    "equipment": [],
+    "difficulty": "advanced",
+    "goals": [
+      "hiit",
+      "fat-burning",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": true,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Start in a lunge position. Explosively jump and switch your legs in the air, landing in a lunge with the opposite leg forward. Immediately drop into the next lunge.",
+    "tips": "Land softly by absorbing through your ankles and knees. Maintain an upright torso throughout. This is one of the most demanding bodyweight leg exercises — not suitable for silent mode.",
+    "youtubeId": "y7Iug7eC0dk"
+  },
+  {
+    "id": "nordic-curl",
+    "name": "Nordic Curl",
+    "bodyParts": [
+      "hamstrings"
+    ],
+    "equipment": [],
+    "difficulty": "advanced",
+    "goals": [
+      "muscle-building",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 5,
+    "defaultDuration": null,
+    "description": "Kneel with your feet anchored under a heavy sofa or tucked under a doorway. Keeping your body straight from knees to head, slowly lower your torso toward the floor by extending your knees. Catch yourself with your hands and push back.",
+    "tips": "This is one of the hardest bodyweight hamstring exercises. Use your hands to help on the way up until you're strong enough to pull yourself back with hamstring strength alone. Exceptional for hamstring injury prevention.",
+    "youtubeId": "_e9vFU9-tkc"
+  },
+  {
+    "id": "single-leg-rdl-bodyweight",
+    "name": "Single-Leg Romanian Deadlift",
+    "bodyParts": [
+      "hamstrings",
+      "glutes",
+      "core"
+    ],
+    "equipment": [],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "general-fitness",
+      "mobility"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Stand on one leg with a slight knee bend. Hinge forward at the hip, extending the free leg straight back for balance, until your torso is roughly parallel to the floor. Return to standing by driving your standing hip forward.",
+    "tips": "Keep your back flat and hips square throughout. Use a wall for light balance support until you develop the stability. This trains single-leg balance, hip hinge mechanics, and hamstring flexibility simultaneously.",
+    "youtubeId": "gz9l8UA_KXs"
+  },
+  {
+    "id": "standing-calf-raise",
+    "name": "Standing Calf Raise",
+    "bodyParts": [
+      "calves"
+    ],
+    "equipment": [],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 20,
+    "defaultDuration": null,
+    "description": "Stand with feet hip-width apart, hands on a wall for light balance. Rise up onto the balls of your feet as high as possible, pause for a count, then lower slowly.",
+    "tips": "The full range of motion is key — go as high as possible on the way up and lower your heels as far as possible on the way down. Slow lowering maximises muscle tension.",
+    "youtubeId": "k67UjgvJdEk"
+  },
+  {
+    "id": "single-leg-calf-raise",
+    "name": "Single-Leg Calf Raise",
+    "bodyParts": [
+      "calves"
+    ],
+    "equipment": [],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 15,
+    "defaultDuration": null,
+    "description": "Stand on one foot with the other foot crossed behind your ankle. Rise up onto the ball of your single foot as high as possible, pause, then lower slowly. Complete all reps on one side before switching.",
+    "tips": "Use a wall or doorframe for balance. The loading on a single leg is roughly double that of a bilateral calf raise, making this a significantly harder progression.",
+    "youtubeId": "u1Yc75YdiJA"
+  },
+  {
+    "id": "burpee",
+    "name": "Burpee",
+    "bodyParts": [
+      "full-body"
+    ],
+    "equipment": [],
+    "difficulty": "intermediate",
+    "goals": [
+      "hiit",
+      "fat-burning",
+      "endurance",
+      "circuit"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": true,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "From standing, drop your hands to the floor, jump your feet back to a plank, perform a push-up, jump your feet forward to your hands, then jump up with arms overhead. That's one rep.",
+    "tips": "Scale by removing the push-up or stepping instead of jumping. The jump at the top should be explosive — get full hip extension before landing. Not suitable for silent mode.",
+    "youtubeId": "fZx6nxKMq4E"
+  },
+  {
+    "id": "bear-crawl",
+    "name": "Bear Crawl",
+    "bodyParts": [
+      "full-body"
+    ],
+    "equipment": [],
+    "difficulty": "intermediate",
+    "goals": [
+      "general-fitness",
+      "endurance",
+      "fat-burning"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "time",
+    "defaultSets": 3,
+    "defaultReps": null,
+    "defaultDuration": 30,
+    "description": "Start on hands and knees with knees hovering 2-3cm off the floor. Move forward by simultaneously stepping your right hand and left knee, then left hand and right knee. Keep your back flat and hips low.",
+    "tips": "Keep your hips level — they should stay parallel to the floor, not bobbing with each step. This develops contralateral coordination, shoulder strength, and core stability.",
+    "youtubeId": "lRolga8vTyc"
+  },
+  {
+    "id": "tuck-jump",
+    "name": "Tuck Jump",
+    "bodyParts": [
+      "quads",
+      "glutes",
+      "calves",
+      "core"
+    ],
+    "equipment": [],
+    "difficulty": "advanced",
+    "goals": [
+      "hiit",
+      "fat-burning",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": true,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Stand with feet shoulder-width apart. Bend your knees, then explosively jump as high as you can, pulling your knees toward your chest at the peak. Land softly and immediately go into the next jump.",
+    "tips": "Focus on full hip extension during the jump before pulling your knees up. Land with soft knees and immediately absorb into the next rep. Not suitable for silent mode.",
+    "youtubeId": "ZR6aFqdRi2Y"
+  },
+  {
+    "id": "skater-hop",
+    "name": "Skater Hop",
+    "bodyParts": [
+      "glutes",
+      "quads",
+      "calves",
+      "core"
+    ],
+    "equipment": [],
+    "difficulty": "intermediate",
+    "goals": [
+      "hiit",
+      "fat-burning",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": true,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 16,
+    "defaultDuration": null,
+    "description": "Hop laterally off your right foot, landing on your left foot and reaching your right hand toward your left foot. Immediately hop back to the right. Each landing counts as one rep.",
+    "tips": "Bend into each landing to absorb the impact and load the glute. Focus on balance and control at each landing before driving into the next hop. Not suitable for silent mode.",
+    "youtubeId": "9_jLW6VkU8A"
+  },
+  {
+    "id": "high-knees",
+    "name": "High Knees",
+    "bodyParts": [
+      "quads",
+      "hamstrings",
+      "core",
+      "calves"
+    ],
+    "equipment": [],
+    "difficulty": "intermediate",
+    "goals": [
+      "hiit",
+      "fat-burning",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": true,
+    "format": "time",
+    "defaultSets": 3,
+    "defaultReps": null,
+    "defaultDuration": 30,
+    "description": "Run in place, driving your knees up to hip height with each step. Pump your arms in rhythm and land on the balls of your feet. Maintain an upright posture.",
+    "tips": "The faster you go, the higher the cardiovascular demand. Drive from your core — each knee lift should feel like it comes from your hip flexors, not just your legs. Not suitable for silent mode.",
+    "youtubeId": "QPfOZ0e30xg"
+  },
+  {
+    "id": "db-floor-press",
+    "name": "Dumbbell Floor Press",
+    "bodyParts": [
+      "chest",
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness",
+      "circuit"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Lie on your back with knees bent and feet flat. Hold a dumbbell in each hand at chest level with elbows at about 45 degrees. Press both dumbbells straight up, then lower until your elbows touch the floor.",
+    "tips": "The floor limits your range of motion and removes the shoulder impingement risk of a bench press — making it safer for home training. Focus on squeezing the chest at the top.",
+    "youtubeId": "qHCI9rK7HqM"
+  },
+  {
+    "id": "db-chest-fly",
+    "name": "Dumbbell Chest Fly",
+    "bodyParts": [
+      "chest",
+      "shoulders"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Lie on your back holding dumbbells above your chest with a slight bend in your elbows. Open your arms out to the sides in a wide arc, lowering the dumbbells toward the floor, then bring them back together at the top.",
+    "tips": "Keep the slight elbow bend constant throughout — never fully lock out or let the elbows collapse. Think 'hugging a barrel' — it's an arc, not a press.",
+    "youtubeId": "LzFvciCdoW0"
+  },
+  {
+    "id": "db-pullover",
+    "name": "Dumbbell Pullover",
+    "bodyParts": [
+      "chest",
+      "back"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Lie on your back and hold a single dumbbell with both hands above your chest. Keeping a slight bend in your elbows, lower the dumbbell back over your head toward the floor, then pull it back over your chest.",
+    "tips": "This exercise works both the chest and lats, depending on how you focus. A deeper arch through the ribcage increases the stretch — beneficial but requires careful loading.",
+    "youtubeId": "vVdKQfWubc4"
+  },
+  {
+    "id": "db-bent-over-row",
+    "name": "Dumbbell Bent-Over Row",
+    "bodyParts": [
+      "back",
+      "biceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Hold a dumbbell in each hand. Hinge forward at the hips to about 45 degrees with your back flat. Pull both dumbbells toward your hips, squeezing your shoulder blades together at the top. Lower with control.",
+    "tips": "Lead with your elbows, not your hands. Imagine you're trying to put your elbows in your back pockets. Keep your lower back flat — no rounding.",
+    "youtubeId": "fFmwY2dA2ds"
+  },
+  {
+    "id": "single-arm-db-row",
+    "name": "Single-Arm Dumbbell Row",
+    "bodyParts": [
+      "back",
+      "biceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Place one knee and hand on a bench or sofa for support. Hold a dumbbell in the other hand. Pull the dumbbell toward your hip, keeping your back flat and elbow close to your body. Lower with control. Switch sides.",
+    "tips": "Allow a slight shoulder rotation at the bottom (letting it stretch forward) to increase range of motion. Avoid twisting your torso — the movement is isolated to the arm and shoulder blade.",
+    "youtubeId": "0G4AD998kRM"
+  },
+  {
+    "id": "db-romanian-deadlift",
+    "name": "Dumbbell Romanian Deadlift",
+    "bodyParts": [
+      "hamstrings",
+      "glutes",
+      "back"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Hold dumbbells in front of your thighs. Hinge forward at the hips, sliding the dumbbells down your legs while keeping your back flat and knees slightly bent. Return by driving your hips forward.",
+    "tips": "Feel the stretch deep in your hamstrings at the bottom — that's the right position. The dumbbells should stay close to your body throughout. This is one of the best posterior chain exercises available.",
+    "youtubeId": "aa57T45iFSE"
+  },
+  {
+    "id": "db-deadlift",
+    "name": "Dumbbell Deadlift",
+    "bodyParts": [
+      "hamstrings",
+      "glutes",
+      "back",
+      "quads"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Stand with dumbbells in front of your feet. Hinge at the hips and bend your knees to grip the dumbbells, keeping your back flat. Drive through your heels to stand, fully extending your hips at the top.",
+    "tips": "Think 'push the floor away' rather than 'pull the weight up'. Keep the dumbbells close to your body throughout the lift. This is the foundation of all hip-hinge strength.",
+    "youtubeId": "gLogcYIvgRA"
+  },
+  {
+    "id": "db-shoulder-press",
+    "name": "Dumbbell Shoulder Press",
+    "bodyParts": [
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Sit or stand holding dumbbells at shoulder height with palms facing forward. Press both dumbbells overhead until arms are fully extended, then lower back to shoulder height.",
+    "tips": "Keep your core braced to prevent your lower back from arching under the load. Don't lock out your elbows at the top — keep a slight bend to maintain tension.",
+    "youtubeId": "ybRnTZJOdn4"
+  },
+  {
+    "id": "db-lateral-raise",
+    "name": "Dumbbell Lateral Raise",
+    "bodyParts": [
+      "shoulders"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 15,
+    "defaultDuration": null,
+    "description": "Stand holding dumbbells at your sides with a slight elbow bend. Raise both arms out to the sides until they're at shoulder height, pause briefly, then lower with control.",
+    "tips": "Lead with your elbows, not your wrists, and pour from your pinkies at the top (slight internal rotation). Use lighter weight than you think you need — form breaks quickly here.",
+    "youtubeId": "nnH63icHYXY"
+  },
+  {
+    "id": "db-front-raise",
+    "name": "Dumbbell Front Raise",
+    "bodyParts": [
+      "shoulders"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Stand holding dumbbells in front of your thighs with palms facing your body. Raise both arms straight forward to shoulder height, then lower with control. Can be done alternating or simultaneously.",
+    "tips": "Avoid swinging the weight up — use a controlled tempo. This targets the anterior deltoid, which can become overdeveloped relative to the rear delt in pushing-heavy programs.",
+    "youtubeId": "O_nYMwWzo2I"
+  },
+  {
+    "id": "db-rear-delt-fly",
+    "name": "Dumbbell Rear Delt Fly",
+    "bodyParts": [
+      "shoulders",
+      "back"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 15,
+    "defaultDuration": null,
+    "description": "Hinge forward at the hips about 45 degrees. Hold dumbbells below your chest with a slight bend in the elbows. Raise both arms out to the sides until they're parallel to the floor, squeezing the rear delts. Lower with control.",
+    "tips": "Keep the movement in the horizontal plane — dumbbells should travel straight out to the sides, not forward. Use very light weight — the rear delt is a small muscle.",
+    "youtubeId": "buuYPLVXsJg"
+  },
+  {
+    "id": "db-bicep-curl",
+    "name": "Dumbbell Bicep Curl",
+    "bodyParts": [
+      "biceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Stand holding dumbbells at your sides with palms facing forward. Curl both dumbbells up toward your shoulders by bending the elbows, keeping your upper arms still. Lower with control.",
+    "tips": "Keep your elbows pinned to your sides throughout — resist the temptation to swing them forward. The slower the lowering phase, the greater the muscle stimulus.",
+    "youtubeId": "XE_pHwbst04"
+  },
+  {
+    "id": "hammer-curl",
+    "name": "Hammer Curl",
+    "bodyParts": [
+      "biceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Stand holding dumbbells at your sides with palms facing each other (neutral grip). Curl both dumbbells upward, maintaining the neutral grip throughout. Lower with control.",
+    "tips": "The neutral grip recruits the brachialis (deep arm muscle) and brachioradialis (forearm) more than the standard curl. This builds overall arm thickness, not just the bicep peak.",
+    "youtubeId": "BRVDS6HVR9Q"
+  },
+  {
+    "id": "db-tricep-kickback",
+    "name": "Dumbbell Tricep Kickback",
+    "bodyParts": [
+      "triceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Hinge forward at the hips and bring both upper arms parallel to the floor. Extend your forearms back until your arms are fully straightened, squeezing the triceps. Bend back to 90 degrees and repeat.",
+    "tips": "Keep your upper arms locked parallel to the floor throughout — only the forearm moves. The contraction at full extension is the key part of this exercise.",
+    "youtubeId": "6SS6K3lAwZ8"
+  },
+  {
+    "id": "db-overhead-tricep-extension",
+    "name": "Dumbbell Overhead Tricep Extension",
+    "bodyParts": [
+      "triceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Hold one dumbbell with both hands overhead, arms fully extended. Bend your elbows to lower the dumbbell behind your head, then press back up to the start.",
+    "tips": "Keep your elbows close to your head — don't let them flare out. The overhead position stretches the long head of the triceps, making this the most complete tricep exercise you can do without a cable machine.",
+    "youtubeId": "DZgpCf5alfI"
+  },
+  {
+    "id": "goblet-squat",
+    "name": "Goblet Squat",
+    "bodyParts": [
+      "quads",
+      "glutes",
+      "core"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness",
+      "fat-burning"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Hold a single dumbbell vertically at chest height with both hands cupping the upper end. Squat down with feet shoulder-width apart, keeping your elbows inside your knees at the bottom. Drive through your heels to stand.",
+    "tips": "The goblet position counterbalances your centre of gravity, allowing a more upright torso and deeper squat than a bodyweight squat. Excellent for developing squat mechanics.",
+    "youtubeId": "BR4tlEE_A98"
+  },
+  {
+    "id": "db-lunge",
+    "name": "Dumbbell Lunge",
+    "bodyParts": [
+      "quads",
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Hold a dumbbell in each hand at your sides. Step forward with one leg, lowering your back knee toward the floor. Push off the front foot to return to standing. Alternate legs.",
+    "tips": "The added weight increases demand significantly — start lighter than you think you need to. Keep your torso upright and front knee tracking over your toes.",
+    "youtubeId": "G4gAK8Bhyro"
+  },
+  {
+    "id": "db-sumo-squat",
+    "name": "Dumbbell Sumo Squat",
+    "bodyParts": [
+      "quads",
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Hold one dumbbell with both hands and stand with feet wider than shoulder-width, toes turned out 45 degrees. Squat straight down, keeping your chest up and knees tracking over your toes. Drive through your heels.",
+    "tips": "The wide stance shifts the load toward the inner thighs (adductors) and glutes compared to a standard squat. Lower the dumbbell between your legs at the bottom.",
+    "youtubeId": "LcCPZDCHbwQ"
+  },
+  {
+    "id": "db-hip-thrust",
+    "name": "Dumbbell Hip Thrust",
+    "bodyParts": [
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Sit with your upper back against a sofa. Rest a dumbbell on your hip crease (use a towel for padding). Drive through your heels to thrust your hips up until your body is flat. Squeeze your glutes hard at the top. Lower.",
+    "tips": "Brace your core and tuck your chin to keep your ribs down. This is the most effective exercise for glute hypertrophy — the weight dramatically increases the stimulus vs bodyweight alone.",
+    "youtubeId": "29OfN4ztW_g"
+  },
+  {
+    "id": "db-thruster",
+    "name": "Dumbbell Thruster",
+    "bodyParts": [
+      "quads",
+      "glutes",
+      "shoulders",
+      "triceps",
+      "core"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "hiit",
+      "fat-burning",
+      "endurance",
+      "circuit"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Hold dumbbells at shoulder height. Squat down, then as you drive up from the squat, press the dumbbells overhead in one fluid motion. Lower the dumbbells back to shoulders as you descend into the next squat.",
+    "tips": "The pressing power should come from your legs — use the momentum from the squat to drive the press. This is a true full-body compound movement that is extremely metabolically demanding.",
+    "youtubeId": "tJP-fwf5ASA"
+  },
+  {
+    "id": "db-swing",
+    "name": "Dumbbell Swing",
+    "bodyParts": [
+      "glutes",
+      "hamstrings",
+      "back",
+      "core"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "hiit",
+      "fat-burning",
+      "endurance",
+      "circuit"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 15,
+    "defaultDuration": null,
+    "description": "Hold a single dumbbell with both hands and stand with feet shoulder-width apart. Hinge forward at the hips and swing the dumbbell back between your legs, then explosively drive your hips forward to swing it up to chest height.",
+    "tips": "This is a hip hinge, not a squat. The power comes entirely from the glutes and hamstrings snapping your hips forward. Keep your arms relaxed — they just guide the dumbbell.",
+    "youtubeId": "wqUKvSouuFI"
+  },
+  {
+    "id": "band-pull-apart",
+    "name": "Band Pull-Apart",
+    "bodyParts": [
+      "shoulders",
+      "back"
+    ],
+    "equipment": [
+      "band"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 15,
+    "defaultDuration": null,
+    "description": "Hold the band with both hands at shoulder width, arms extended in front of you. Pull the band apart by moving your arms out to the sides until it touches your chest, squeezing your shoulder blades. Return slowly.",
+    "tips": "Keep your arms straight and at shoulder height throughout. This is one of the best exercises for rear deltoid and mid-trap development — excellent posture corrector.",
+    "youtubeId": "WqdNDTTe-9g"
+  },
+  {
+    "id": "band-bicep-curl",
+    "name": "Band Bicep Curl",
+    "bodyParts": [
+      "biceps"
+    ],
+    "equipment": [
+      "band"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 15,
+    "defaultDuration": null,
+    "description": "Stand on the centre of the band with feet shoulder-width apart. Hold the ends in each hand with palms facing forward. Curl your hands toward your shoulders, keeping elbows pinned to your sides.",
+    "tips": "The resistance increases as you reach the top of the curl — the hardest part is the full contraction, unlike with free weights. Pause and squeeze at the top.",
+    "youtubeId": "RyWX9e7imhc"
+  },
+  {
+    "id": "band-tricep-pushdown",
+    "name": "Band Tricep Pushdown",
+    "bodyParts": [
+      "triceps"
+    ],
+    "equipment": [
+      "band"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 15,
+    "defaultDuration": null,
+    "description": "Anchor the band overhead (door frame or high hook). Grasp the band with both hands, elbows bent at 90 degrees and pinned to your sides. Push the band straight down by extending your elbows fully, then return.",
+    "tips": "Keep your upper arms completely still — only your forearms should move. This mimics the cable pushdown, one of the classic tricep isolation exercises in any gym.",
+    "youtubeId": "Y3CDzx-oj3k"
+  },
+  {
+    "id": "band-lateral-walk",
+    "name": "Band Lateral Walk",
+    "bodyParts": [
+      "glutes"
+    ],
+    "equipment": [
+      "band"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 15,
+    "defaultDuration": null,
+    "description": "Place the band around your ankles (or just above knees for less resistance). Stand with feet hip-width apart and a slight squat position. Step sideways with your right foot, then bring your left foot to follow. Stay low throughout.",
+    "tips": "Maintain the slight squat position — don't stand up straight between steps. The goal is constant tension in the band. This is one of the most effective glute medius exercises available.",
+    "youtubeId": "uuCaa5R1z-o"
+  },
+  {
+    "id": "band-squat",
+    "name": "Resistance Band Squat",
+    "bodyParts": [
+      "quads",
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [
+      "band"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness",
+      "fat-burning"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 15,
+    "defaultDuration": null,
+    "description": "Stand on the centre of the band with feet shoulder-width apart. Hold the ends at shoulder height. Squat down as you would a regular squat, with the band adding upward resistance at the top of the movement.",
+    "tips": "Alternatively, place the band around your thighs just above the knees to add an abduction challenge to the squat, forcing your glutes to work harder to keep your knees tracking outward.",
+    "youtubeId": "bE97Ietr9aM"
+  },
+  {
+    "id": "band-glute-bridge",
+    "name": "Band Glute Bridge",
+    "bodyParts": [
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [
+      "band"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 15,
+    "defaultDuration": null,
+    "description": "Lie on your back with the band across your hip crease, anchored by your hands. Perform a glute bridge, driving against the resistance of the band as you lift your hips.",
+    "tips": "You can also place the band just above your knees and push them outward against the band throughout the movement — this version is excellent for glute medius activation.",
+    "youtubeId": "ktdIgom5B18"
+  },
+  {
+    "id": "band-row",
+    "name": "Resistance Band Row",
+    "bodyParts": [
+      "back",
+      "biceps"
+    ],
+    "equipment": [
+      "band"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 15,
+    "defaultDuration": null,
+    "description": "Sit on the floor with legs extended and loop the band around your feet. Hold both ends with arms extended. Row your elbows back toward your hips, squeezing your shoulder blades at the end of the movement.",
+    "tips": "Keep your back flat and avoid rounding your lower back as you lean forward on the return. This is the closest bodyweight-style substitute for a cable seated row.",
+    "youtubeId": "WkNuYbWZ8g8"
+  },
+  {
+    "id": "band-chest-press",
+    "name": "Resistance Band Chest Press",
+    "bodyParts": [
+      "chest",
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "band"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Anchor the band behind you at chest height (around a doorframe). Hold both ends at chest level with palms facing down. Press both hands forward until arms are extended, then return slowly.",
+    "tips": "The further you step away from the anchor point, the more resistance. The band provides accommodating resistance — hardest at full extension — which is different from any free weight exercise.",
+    "youtubeId": "8aQL3sguvV8"
+  },
+  {
+    "id": "band-shoulder-press",
+    "name": "Resistance Band Shoulder Press",
+    "bodyParts": [
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": [
+      "band"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Stand on the centre of the band with feet shoulder-width apart. Hold both ends at shoulder height with palms facing forward. Press both hands overhead until arms are extended. Lower back to shoulders.",
+    "tips": "Brace your core to prevent your lower back from arching under the upward tension. The band becomes progressively harder to press as you approach lockout.",
+    "youtubeId": "0rLjkQweIDg"
+  },
+  {
+    "id": "band-face-pull",
+    "name": "Band Face Pull",
+    "bodyParts": [
+      "shoulders",
+      "back"
+    ],
+    "equipment": [
+      "band"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 15,
+    "defaultDuration": null,
+    "description": "Anchor the band at face height. Hold both ends with an overhand grip and step back. Pull the band toward your face, separating your hands and bringing them to either side of your head. Elbows stay high.",
+    "tips": "Think 'double bicep pose' at the end of the movement — elbows at shoulder height, hands by your ears. This is the single best exercise for rear delt and external rotator health.",
+    "youtubeId": "OIMUU2Q-upU"
+  },
+  {
+    "id": "chair-dip",
+    "name": "Chair Dip",
+    "bodyParts": [
+      "triceps",
+      "chest",
+      "shoulders"
+    ],
+    "equipment": [
+      "chair"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness",
+      "circuit"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Sit on the edge of a sturdy chair with hands gripping the seat. Slide your body off the edge and lower yourself by bending your elbows until they reach 90 degrees. Press back up to start.",
+    "tips": "Keep your back close to the chair throughout. The further your feet are from the chair, the harder the exercise. Ensure the chair is stable and won't slide.",
+    "youtubeId": "gsXFaDBOppk"
+  },
+  {
+    "id": "chair-step-up",
+    "name": "Chair Step-Up",
+    "bodyParts": [
+      "quads",
+      "glutes",
+      "hamstrings"
+    ],
+    "equipment": [
+      "chair"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness",
+      "fat-burning"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Stand in front of a sturdy chair. Step your right foot onto the seat, drive through that heel to bring your body up, then step down. Alternate legs each rep.",
+    "tips": "Use a sturdy, non-wheeled chair. Drive through the heel of the raised foot rather than pushing off the floor with your back foot — this isolates the working leg.",
+    "youtubeId": "Nix6kDX8svo"
+  },
+  {
+    "id": "incline-push-up",
+    "name": "Incline Push-Up",
+    "bodyParts": [
+      "chest",
+      "triceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "chair"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 15,
+    "defaultDuration": null,
+    "description": "Place your hands on the seat of a sturdy chair, slightly wider than shoulder-width. Walk your feet back until your body is in a straight line. Lower your chest toward the chair seat, then press back up.",
+    "tips": "The higher the surface, the easier the push-up. This is an excellent regression for beginners who aren't yet ready for floor push-ups. Keep your body in a perfectly straight line.",
+    "youtubeId": "0JUrOH--Kdk"
+  },
+  {
+    "id": "elevated-decline-push-up",
+    "name": "Elevated Decline Push-Up",
+    "bodyParts": [
+      "chest",
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": [
+      "chair"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Place your feet on a sturdy chair seat and hands on the floor, shoulder-width apart. Your body should be at a downward angle. Lower your chest toward the floor and press back up.",
+    "tips": "The higher your feet, the more the load shifts toward your upper chest and front delts. Ensure the chair is stable and pushed against a wall for safety.",
+    "youtubeId": "J21Glo_IuCI"
+  },
+  {
+    "id": "seated-leg-raise",
+    "name": "Seated Leg Raise",
+    "bodyParts": [
+      "core",
+      "quads"
+    ],
+    "equipment": [
+      "chair"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 15,
+    "defaultDuration": null,
+    "description": "Sit toward the front edge of a sturdy chair. Grip the sides for support. Extend both legs straight and raise them to hip height. Hold briefly, then lower without touching the floor.",
+    "tips": "Keep your back straight and avoid rounding your lower back. This is a great introduction to lower ab training for those not yet ready for floor-based core work.",
+    "youtubeId": "OBJF8FRWg9M"
+  },
+  {
+    "id": "chair-assisted-pistol-squat",
+    "name": "Chair-Assisted Pistol Squat",
+    "bodyParts": [
+      "quads",
+      "glutes",
+      "core"
+    ],
+    "equipment": [
+      "chair"
+    ],
+    "difficulty": "advanced",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 6,
+    "defaultDuration": null,
+    "description": "Stand in front of a chair. Balance on one leg and extend the other forward. Use the chair back for light balance assistance as you lower yourself toward the seat on the single leg. Drive back up.",
+    "tips": "Use the chair for balance only — not to push yourself up. The goal is to build toward a freestanding pistol squat. Lower as slowly as possible on the way down.",
+    "youtubeId": "o66Jtzj2clQ"
+  },
+  {
+    "id": "box-jump-chair",
+    "name": "Chair Box Jump",
+    "bodyParts": [
+      "quads",
+      "glutes",
+      "calves",
+      "full-body"
+    ],
+    "equipment": [
+      "chair"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "hiit",
+      "fat-burning",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": true,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 8,
+    "defaultDuration": null,
+    "description": "Stand in front of a sturdy, stable chair. Bend your knees and swing your arms, then jump onto the chair seat, landing softly with both feet flat. Step down carefully and repeat.",
+    "tips": "Use a heavy, non-wheeled chair pushed firmly against a wall. Land with soft knees. If you're unsure about the chair's stability, substitute with a step-up jump in place instead.",
+    "youtubeId": "h1YkVa7mnRU"
+  },
+  {
+    "id": "chair-knee-raise",
+    "name": "Seated Knee Raise",
+    "bodyParts": [
+      "core",
+      "quads"
+    ],
+    "equipment": [
+      "chair"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "general-fitness",
+      "endurance",
+      "fat-burning"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 15,
+    "defaultDuration": null,
+    "description": "Sit at the edge of a sturdy chair with a tall posture, gripping the sides. Lift both knees simultaneously toward your chest, then lower without fully touching the floor. Lean back slightly for extra range.",
+    "tips": "The further you lean back, the harder this becomes. This is a great low-impact ab exercise for those with limited floor mobility or who prefer seated positions.",
+    "youtubeId": "w9ltA3GRs9s"
+  },
+  {
+    "id": "db-lunge-rotation",
+    "name": "Dumbbell Lunge with Rotation",
+    "bodyParts": [
+      "quads",
+      "glutes",
+      "core"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "fat-burning",
+      "circuit",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Hold a single dumbbell at chest height with both hands. Step forward into a lunge and, at the bottom position, rotate your torso toward the front leg. Rotate back to centre, then push off the front foot to stand. Alternate legs.",
+    "tips": "The rotation should come from your thoracic spine, not your lower back. Keep the dumbbell close to your chest throughout the twist. This combination trains the core's anti-rotation strength alongside the legs.",
+    "youtubeId": "VIZt8XO7jto"
+  },
+  {
+    "id": "single-arm-db-snatch",
+    "name": "Single-Arm Dumbbell Snatch",
+    "bodyParts": [
+      "full-body"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "advanced",
+    "goals": [
+      "hiit",
+      "fat-burning",
+      "endurance",
+      "circuit"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 8,
+    "defaultDuration": null,
+    "description": "Stand with feet shoulder-width apart and a dumbbell on the floor between your feet. Hinge down and grip it with one hand. In one explosive movement, drive through your legs and hips to pull the dumbbell straight up, then punch it overhead as you drop slightly under it. Stand tall with arm locked out overhead. Lower to the floor and repeat. Switch arms.",
+    "tips": "The power comes from your hips and legs — the arm just guides the dumbbell up. Keep the dumbbell close to your body on the way up (like zipping up a jacket). Start with a very light weight to learn the movement pattern before loading.",
+    "youtubeId": "DEzb6VKaCRU"
+  },
+  {
+    "id": "db-hang-clean",
+    "name": "Dumbbell Hang Clean",
+    "bodyParts": [
+      "full-body"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "hiit",
+      "fat-burning",
+      "muscle-building",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Hold dumbbells in front of your thighs. Hinge slightly at the hips (hang position). Explosively drive your hips forward and shrug your shoulders, using that momentum to pull the dumbbells up. Rotate your elbows under to catch them at shoulder height in a front rack position. Lower and repeat.",
+    "tips": "The movement is driven by the hips — think of it as a powerful hip extension that the arms just follow. The 'catch' requires a quick elbow rotation under the dumbbells. Start light and prioritise the technique before adding load.",
+    "youtubeId": "5AUmwaF7RnQ"
+  },
+  {
+    "id": "db-clean-and-press",
+    "name": "Dumbbell Clean and Press",
+    "bodyParts": [
+      "full-body"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "fat-burning",
+      "circuit",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Start with dumbbells hanging at your sides. Perform a hang clean — drive your hips forward and pull the dumbbells up, catching them at shoulder height. Without pausing, press them overhead until arms are locked out. Lower back to shoulders, then to sides. That's one rep.",
+    "tips": "The clean and the press are two distinct movements — don't rush the transition. Catch the clean in a stable front rack before initiating the press. This two-phase structure is what separates it from the thruster, which merges both into one continuous motion.",
+    "youtubeId": "sZ4XMWn8bAU"
+  },
+  {
+    "id": "arnold-press",
+    "name": "Arnold Press",
+    "bodyParts": [
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Sit or stand holding dumbbells in front of your shoulders with palms facing toward you (like the top of a curl). As you press upward, rotate your palms outward so they face forward at the top. Reverse the rotation on the way down.",
+    "tips": "The rotation should be smooth and continuous — not a two-step movement. Named after Arnold Schwarzenegger, this variation hits all three heads of the deltoid in a single rep, making it more complete than a standard shoulder press.",
+    "youtubeId": "6Z15_WdXmVw"
+  },
+  {
+    "id": "renegade-row",
+    "name": "Renegade Row",
+    "bodyParts": [
+      "back",
+      "chest",
+      "triceps",
+      "core"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "advanced",
+    "goals": [
+      "muscle-building",
+      "fat-burning",
+      "circuit"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Start in a push-up position gripping a dumbbell in each hand (they act as your 'handles'). Perform a push-up, then at the top, shift your weight to the left arm and row the right dumbbell to your hip. Lower it, perform another push-up, then row with the left. Each push-up + two rows = one full cycle.",
+    "tips": "The biggest challenge is preventing hip rotation during the row — brace your core aggressively and plant your feet wider for more stability. Use hex dumbbells so they don't roll. This is one of the most demanding upper-body exercises in this entire database.",
+    "youtubeId": "vpOeK4BrUyc"
+  },
+  {
+    "id": "devil-press",
+    "name": "Devil Press",
+    "bodyParts": [
+      "full-body"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "advanced",
+    "goals": [
+      "hiit",
+      "fat-burning",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": true,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 8,
+    "defaultDuration": null,
+    "description": "Hold a dumbbell in each hand. Perform a burpee — jump feet back to plank, do a push-up, jump feet forward. As you stand, use the momentum to swing the dumbbells between your legs then overhead in one fluid motion, ending with both arms locked out above you. Lower and repeat.",
+    "tips": "The overhead finish uses the same hip-drive mechanics as a snatch — don't muscle the dumbbells up with your arms alone. This is essentially a burpee combined with a double DB snatch and is one of the most metabolically demanding exercises you can do at home. Not suitable for silent mode.",
+    "youtubeId": "ghacPZ9fuFU"
+  },
+  {
+    "id": "man-maker",
+    "name": "Man Maker",
+    "bodyParts": [
+      "full-body"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "advanced",
+    "goals": [
+      "hiit",
+      "fat-burning",
+      "endurance",
+      "circuit"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 6,
+    "defaultDuration": null,
+    "description": "Hold dumbbells and start in a plank. Perform a push-up. At the top, row the right dumbbell to your hip, then the left. Jump feet toward your hands. Perform a hang clean to bring dumbbells to shoulders. Stand and press overhead. That full sequence is one rep.",
+    "tips": "Break it down when learning: plank → push-up → row right → row left → jump up → clean → press. Once the sequence is automatic, try to make it flow continuously. Start with very light dumbbells — the cumulative fatigue is brutal even with modest weight.",
+    "youtubeId": "ni2jUhihLuw"
+  },
+  {
+    "id": "db-reverse-lunge-to-press",
+    "name": "Dumbbell Reverse Lunge to Press",
+    "bodyParts": [
+      "quads",
+      "glutes",
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "fat-burning",
+      "circuit"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Hold dumbbells at shoulder height. Step one foot back into a reverse lunge. As you drive through the front heel to stand back up, use that upward momentum to press the dumbbells overhead. Lower them back to shoulders as you step back into the next lunge. Alternate legs.",
+    "tips": "The press should initiate as your front leg reaches full extension — you're using leg drive to assist the press, similar to a push press. This timing is what makes the movement feel fluid rather than two separate exercises stapled together.",
+    "youtubeId": "8uI0l7gCutA"
+  },
+  {
+    "id": "db-lateral-lunge-to-curl",
+    "name": "Dumbbell Lateral Lunge to Curl",
+    "bodyParts": [
+      "quads",
+      "glutes",
+      "hamstrings",
+      "biceps"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "fat-burning",
+      "circuit"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Hold a dumbbell in each hand. Step out to the side into a lateral lunge, letting the dumbbells hang beside the bent leg. At the bottom, perform a bicep curl. Return to standing. Alternate sides.",
+    "tips": "The curl at the bottom of the lunge means your arms are working under fatigue from the isometric load of holding the position — expect the biceps to burn quickly. Keep your torso upright throughout the lunge.",
+    "youtubeId": "UEq2vHmUm3I"
+  },
+  {
+    "id": "db-squat-curl-press",
+    "name": "Dumbbell Squat to Curl to Press",
+    "bodyParts": [
+      "quads",
+      "glutes",
+      "biceps",
+      "shoulders"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "fat-burning",
+      "circuit",
+      "endurance",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Hold dumbbells at your sides. Perform a squat. As you stand, curl the dumbbells to your shoulders, then immediately press them overhead. Lower dumbbells back to your shoulders, then to your sides as you descend into the next squat. Three movements, one fluid rep.",
+    "tips": "Time the curl to match your ascent from the squat — you should arrive at shoulder height just as your legs lock out. The press follows immediately from there. Keep the weight moderate — the compound nature means you'll fatigue faster than on any single movement.",
+    "youtubeId": "6t4mI6VDX5g"
+  },
+  {
+    "id": "db-push-press",
+    "name": "Dumbbell Push Press",
+    "bodyParts": [
+      "shoulders",
+      "triceps",
+      "quads",
+      "glutes"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "fat-burning",
+      "endurance",
+      "circuit"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Hold dumbbells at shoulder height. Dip slightly at the knees, then explosively extend your legs while simultaneously pressing the dumbbells overhead. The leg drive provides the initial momentum; the arms lock out at the top. Lower with control.",
+    "tips": "The dip-and-drive should be quick and shallow — about 20 degrees of knee bend. This leg drive allows you to press 20-30% more weight overhead than a strict press, making it excellent for building pressing strength.",
+    "youtubeId": "hYFI6_wDJ2c"
+  },
+  {
+    "id": "db-sumo-deadlift-high-pull",
+    "name": "Dumbbell Sumo Deadlift High Pull",
+    "bodyParts": [
+      "quads",
+      "glutes",
+      "hamstrings",
+      "back",
+      "shoulders"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "hiit",
+      "fat-burning",
+      "endurance",
+      "circuit"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Stand in a wide sumo stance holding a dumbbell in each hand (or one dumbbell with both). Hinge to the floor in a sumo deadlift position. Drive through your legs and hips to stand, using that upward momentum to pull the dumbbells up to chin height with elbows flaring out. Lower and repeat.",
+    "tips": "The pull to chin height should feel effortless because your legs and hips are doing the real work. Think of the arms as hooks — the power comes from below, not from pulling with your arms.",
+    "youtubeId": "Df7YhnquJ60"
+  },
+  {
+    "id": "push-up-t-rotation",
+    "name": "Push-Up to T-Rotation",
+    "bodyParts": [
+      "chest",
+      "core",
+      "shoulders",
+      "triceps"
+    ],
+    "equipment": [],
+    "difficulty": "intermediate",
+    "goals": [
+      "general-fitness",
+      "fat-burning",
+      "circuit",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Perform a push-up. At the top, shift your weight to your left hand and rotate your entire body, raising your right arm toward the ceiling until you're in a side plank 'T' shape. Return to centre and push-up again, then rotate to the right. Alternate sides.",
+    "tips": "Stack your feet or stagger them for balance during the rotation. The rotation should be driven by your hips, not just your arm. This is the bodyweight equivalent of the renegade row in terms of combined push and lateral stability demand.",
+    "youtubeId": "26mhNKkZt0k"
+  },
+  {
+    "id": "plank-shoulder-tap",
+    "name": "Plank Shoulder Tap",
+    "bodyParts": [
+      "core",
+      "shoulders"
+    ],
+    "equipment": [],
+    "difficulty": "intermediate",
+    "goals": [
+      "general-fitness",
+      "endurance",
+      "circuit"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 20,
+    "defaultDuration": null,
+    "description": "Start in a high plank (push-up position). Keeping your hips completely still, lift your right hand to tap your left shoulder, then return. Repeat on the other side. Each tap counts as one rep.",
+    "tips": "The entire challenge of this exercise is stopping your hips from rocking side to side. Widen your feet for more stability. Slow is harder than fast — resist the urge to rush through the taps.",
+    "youtubeId": "l2KsRCiDsts"
+  },
+  {
+    "id": "push-up-mountain-climber-combo",
+    "name": "Push-Up to Mountain Climber Combo",
+    "bodyParts": [
+      "chest",
+      "core",
+      "triceps",
+      "quads",
+      "shoulders"
+    ],
+    "equipment": [],
+    "difficulty": "intermediate",
+    "goals": [
+      "hiit",
+      "fat-burning",
+      "endurance",
+      "circuit"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 8,
+    "defaultDuration": null,
+    "description": "Perform one push-up. At the top, immediately do 4 mountain climbers (2 per leg), driving each knee toward your chest. That push-up + 4 climbers = one rep. Maintain a rigid plank position throughout.",
+    "tips": "Keep your hips level during the mountain climbers — they should not rise during the knee drives. The push-up provides chest stimulus while the climbers hit your core and hip flexors. A true full upper-body circuit in one movement.",
+    "youtubeId": "qDqxjccmOL8"
+  },
+  {
+    "id": "plank-up-down",
+    "name": "Plank Up-Down",
+    "bodyParts": [
+      "core",
+      "shoulders",
+      "triceps",
+      "chest"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "general-fitness",
+      "endurance",
+      "fat-burning"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Start in a forearm plank. Press up onto your right hand, then your left, to reach a high push-up plank. Lower back to forearm plank leading with the right forearm, then the left. Alternate which arm leads each rep.",
+    "tips": "Keep your hips level throughout — resist rotating or sagging. Squeeze your core and glutes. Slower = harder. Alternate the leading arm each set to balance the workload.",
+    "youtubeId": "9CvuiMeWQZo"
+  },
+  {
+    "id": "lateral-plank-walk",
+    "name": "Lateral Plank Walk",
+    "bodyParts": [
+      "core",
+      "shoulders",
+      "chest"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "general-fitness",
+      "endurance",
+      "fat-burning"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 8,
+    "defaultDuration": null,
+    "description": "Start in a high push-up plank. Step your right hand and right foot out to the right simultaneously, then bring your left hand and foot in to meet them. Take 3–4 steps in one direction, then reverse. That is one rep.",
+    "tips": "Keep your body in a straight line and avoid letting your hips pike or sag. Move hands and feet at the same time for maximum stability challenge. Engage your obliques to resist lateral tilt.",
+    "youtubeId": "bhNMauLqQKw"
+  },
+  {
+    "id": "side-plank-hip-dip",
+    "name": "Side Plank Hip Dip",
+    "bodyParts": [
+      "core",
+      "shoulders"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "general-fitness",
+      "fat-burning"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Hold a side plank on your forearm. Lower your hip toward the floor, lightly touch or hover, then drive it back up past neutral to a full hip lift. Control both directions.",
+    "tips": "The movement is at the hip only — don't let your torso twist. Exhale as you lift. Lead with your obliques, not momentum.",
+    "youtubeId": "V4A0wIh5HNk"
+  },
+  {
+    "id": "side-plank-thread-needle",
+    "name": "Side Plank Thread the Needle",
+    "bodyParts": [
+      "core",
+      "shoulders",
+      "back"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "mobility",
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Hold a side plank on your forearm. Reach your top arm straight up toward the ceiling, then rotate your torso and thread that arm underneath your body as far as comfortable. Unwind back to the start.",
+    "tips": "Initiate the rotation from your thoracic spine, not just your arm. Keep your hips elevated throughout. Breathe out on the reach, in on the unwind. Great for t-spine mobility and oblique strength.",
+    "youtubeId": "plhU5-r3KBg"
+  },
+  {
+    "id": "plank-jack",
+    "name": "Plank Jack",
+    "bodyParts": [
+      "core",
+      "shoulders",
+      "quads"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "fat-burning",
+      "hiit",
+      "endurance",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": true,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 20,
+    "defaultDuration": null,
+    "description": "Start in a high plank. Jump (or step for low-impact) both feet out wide then back together, like a horizontal jumping jack. Keep your hips level the entire time.",
+    "tips": "Land softly on the balls of your feet. If your hips rise, slow down and focus on core tension. Step version works just as well and is silent-mode friendly.",
+    "youtubeId": "Jo0LKx6c7XM"
+  },
+  {
+    "id": "plank-reach",
+    "name": "Plank Alternating Reach",
+    "bodyParts": [
+      "core",
+      "shoulders"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "general-fitness",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 16,
+    "defaultDuration": null,
+    "description": "From a high or forearm plank, lift one arm and extend it straight forward, hold for a beat, then switch. Keep your hips square — resist the urge to rotate or shift your weight.",
+    "tips": "The harder you brace your core and glutes, the easier it is to stay stable. For more challenge, add a leg lift on the opposite side simultaneously (this becomes a bird-dog plank).",
+    "youtubeId": "Bd1lE7rFbRU"
+  },
+  {
+    "id": "lateral-band-walk-db",
+    "name": "Lateral Band Walk with Dumbbell",
+    "bodyParts": [
+      "glutes",
+      "core",
+      "quads"
+    ],
+    "equipment": [
+      "band",
+      "dumbbell"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "general-fitness",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Place a resistance band just above your knees and hold a dumbbell at chest height (goblet position) or at your sides. Adopt a slight squat stance. Step laterally — lead foot out, trail foot follows — for 10–12 steps, then reverse. The dumbbell adds load and shifts the challenge to your core to stay upright.",
+    "tips": "Keep tension in the band the entire time — never let your feet come fully together. Maintain a hinge at the hips with your chest up. The goblet hold forces your core to fight anti-rotation more than dumbbells at your sides.",
+    "youtubeId": "VM-0zwObWho"
+  },
+  {
+    "id": "cossack-squat",
+    "name": "Cossack Squat",
+    "bodyParts": [
+      "glutes",
+      "hamstrings",
+      "quads"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "mobility",
+      "flexibility",
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main",
+      "warmup"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Stand with feet significantly wider than shoulder-width. Shift your weight to one side, bending that knee into a deep squat while keeping the opposite leg straight with toes pointing up. Pause at the bottom, then drive back up to the center and repeat on the other side. Each side counts as one rep.",
+    "tips": "Keep your heel flat on the foot you're squatting onto. The straight leg gets a deep adductor and hamstring stretch — only go as low as your mobility allows. Hold onto something for balance as a beginner progression.",
+    "youtubeId": "JaCbmoDqUc4"
+  },
+  {
+    "id": "cossack-squat-db",
+    "name": "Goblet Cossack Squat",
+    "bodyParts": [
+      "glutes",
+      "hamstrings",
+      "quads",
+      "core"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "mobility",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 10,
+    "defaultDuration": null,
+    "description": "Hold a dumbbell vertically at chest height in both hands (goblet grip). Stand with feet wider than shoulder-width. Shift your weight to one side, bending that knee into a deep squat while keeping the opposite leg straight. Drive back up to center. The dumbbell serves as a counterbalance, making it easier to sit deeper.",
+    "tips": "The goblet hold actually helps your mobility — it acts as a counterweight so you can sit lower than bodyweight alone. Keep your chest up and core braced. Drive through your heel to stand.",
+    "youtubeId": "fj8uShygQDU"
+  },
+  {
+    "id": "curtsy-lunge",
+    "name": "Curtsy Lunge",
+    "bodyParts": [
+      "glutes",
+      "quads",
+      "hamstrings"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness",
+      "mobility"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Stand with feet hip-width apart. Step one foot back and across behind your standing leg — as if doing a curtsy. Lower your back knee toward the floor, keeping your front knee aligned over your toes. Drive through the front heel to return to start. Alternate legs.",
+    "tips": "The crossover motion recruits the glute medius more than a standard lunge. Keep your hips square — resist the urge to rotate your torso. Front knee should track over the middle toe, not cave inward.",
+    "youtubeId": "Ix_SFZVDy0I"
+  },
+  {
+    "id": "curtsy-lunge-db",
+    "name": "Dumbbell Curtsy Lunge",
+    "bodyParts": [
+      "glutes",
+      "quads",
+      "hamstrings"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "intermediate",
+    "goals": [
+      "muscle-building",
+      "fat-burning",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 12,
+    "defaultDuration": null,
+    "description": "Hold a dumbbell in each hand at your sides (or one dumbbell at chest height for more core demand). Step one foot back and across behind your standing leg. Lower your back knee toward the floor, then drive through the front heel to return. Alternate legs each rep.",
+    "tips": "For an extra glute burn, pause at the bottom for 1–2 seconds before driving up. Use a lighter weight than your regular lunge — the crossover position reduces stability. Keep your torso upright throughout.",
+    "youtubeId": "eNBA36Y8MiI"
+  },
+  {
+    "id": "copenhagen-plank",
+    "name": "Copenhagen Plank",
+    "bodyParts": [
+      "core",
+      "glutes",
+      "quads"
+    ],
+    "equipment": [
+      "bodyweight"
+    ],
+    "difficulty": "advanced",
+    "goals": [
+      "muscle-building",
+      "general-fitness",
+      "endurance"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "time",
+    "defaultSets": 3,
+    "defaultReps": null,
+    "defaultDuration": 20,
+    "description": "Lie on your side and place your top foot on a chair, bench, or elevated surface. Lift your hips off the ground into a side plank, supporting yourself on your forearm. Your bottom leg can hang or lightly touch the floor. Hold the position, keeping your body in a straight line.",
+    "tips": "This is a groin and inner-thigh killer — expect soreness in muscles you forgot existed. The short-lever version (foot on a low surface, knee bent) is easier; long lever (straight leg on a high surface) is much harder. Build up gradually — even strong athletes can only hold this for seconds at first.",
+    "youtubeId": "5cTh21BfXzI"
+  },
+  {
+    "id": "db-side-bend",
+    "name": "Dumbbell Side Bend",
+    "bodyParts": [
+      "core"
+    ],
+    "equipment": [
+      "dumbbell"
+    ],
+    "difficulty": "beginner",
+    "goals": [
+      "muscle-building",
+      "general-fitness"
+    ],
+    "phase": [
+      "main"
+    ],
+    "highImpact": false,
+    "format": "reps",
+    "defaultSets": 3,
+    "defaultReps": 15,
+    "defaultDuration": null,
+    "description": "Stand with feet hip-width apart, holding a dumbbell in one hand at your side. Keeping your back straight and core engaged, slide the dumbbell down your leg by bending laterally at the waist. Return to standing through your obliques. Complete all reps on one side before switching.",
+    "tips": "Hold the opposite side of your head lightly with your free hand — or let it rest on your hip — to keep the torso from rotating. The movement is pure lateral flexion: think of your spine as a hinge bending sideways, not twisting. Slow and controlled beats heavy and sloppy here.",
+    "youtubeId": "BDXhn8ta3Vo"
+  }
+]
