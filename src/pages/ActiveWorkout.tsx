@@ -266,6 +266,7 @@ export default function ActiveWorkout() {
   const navigate = useNavigate()
   const [showVideo, setShowVideo] = useState(false)
   const [elapsed, setElapsed] = useState(0)
+  const [thumbLoaded, setThumbLoaded] = useState(false)  // ← MOVED HERE
   const session = state.session
 
   useEffect(() => {
@@ -276,6 +277,10 @@ export default function ActiveWorkout() {
     const id = setInterval(tick, 1000)
     return () => clearInterval(id)
   }, [session?.startedAt, session?.phase])
+
+  // Reset thumbnail spinner whenever the exercise changes — MUST be before any early returns
+  const currentExerciseYoutubeId = session?.items[session?.currentIdx ?? 0]?.exercise?.youtubeId ?? null
+  useEffect(() => { setThumbLoaded(false) }, [currentExerciseYoutubeId])  // ← MOVED HERE
 
   if (!session) {
     return (
@@ -387,8 +392,6 @@ export default function ActiveWorkout() {
   const thumbUrl = exercise.youtubeId
     ? `https://img.youtube.com/vi/${exercise.youtubeId}/mqdefault.jpg`
     : null
-  const [thumbLoaded, setThumbLoaded] = useState(false)
-  useEffect(() => { setThumbLoaded(false) }, [thumbUrl])
 
   return (
     <div className="min-h-full flex flex-col">
@@ -526,7 +529,7 @@ export default function ActiveWorkout() {
                 src={thumbUrl}
                 alt={exercise.name}
                 onLoad={() => setThumbLoaded(true)}
-                className={`w-full h-full object-cover opacity-50 group-hover:opacity-70 transition-opacity duration-300 ${thumbLoaded ? 'opacity-50' : 'opacity-0'}`}
+                className={`w-full h-full object-cover transition-opacity duration-300 ${thumbLoaded ? 'opacity-50' : 'opacity-0'}`}
               />
               {thumbLoaded && (
                 <div className="absolute inset-0 flex flex-col items-center justify-center gap-2">
